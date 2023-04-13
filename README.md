@@ -1,9 +1,9 @@
 # 💫 About Me:
-👋 Hi! I'm Luane.
-💻 Software Engineer intern at Grupo Globo.
-📚 Master's student in information science with a Bachelor's degree in Library Science (2020) and in Information Systems (ongoing).
-🌱 I'm currently learning python and javascript.
-✉️ You can e-mail me at: luane.sporto@gmail.com or connect on my social networks.
+- 👋 Hi! I'm Luane.
+- 💻 Software Engineer intern at Grupo Globo.
+- 📚 Master's student in information science with a Bachelor's degree in Library Science (2020) and in Information Systems (ongoing).
+- 🌱 I'm currently learning python and javascript.
+- ✉️ You can e-mail me at: luane.sporto@gmail.com or connect on my social networks.
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/luanesporto) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/luane-porto) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/18457725) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/descendorio) [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.com/users/480850525013671937) 
