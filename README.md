@@ -18,8 +18,8 @@
 
 # 📊 GitHub Stats:
 <!--  ![](https://github-readme-stats.vercel.app/api?username=luaneporto&theme=city_light&hide_border=false&include_all_commits=true&count_private=false)<br/> -->
-![](https://github-readme-streak-stats.herokuapp.com/?user=luaneporto&theme=city_light&hide_border=false)<br/>[s](url)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=luaneporto&theme=city_light&hide_border=false&include_all_commits=true&count_private=true&layout=compact) ![](https://github-contributor-stats.vercel.app/api?username=luaneporto&limit=3&theme=city_light&combine_all_yearly_contributions=true)
+<!--![](https://github-readme-streak-stats.herokuapp.com/?user=luaneporto&theme=city_light&hide_border=false)<br/>[s](url) -->
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=luaneporto&theme=city_light&hide_border=false&include_all_commits=true&count_private=true&layout=compact) ![](https://github-contributor-stats.vercel.app/api?username=luaneporto&theme=city_light&combine_all_yearly_contributions=true)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=luaneporto&theme=onestar&no-frame=true&no-bg=true&margin-w=4)
