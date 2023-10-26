@@ -1,7 +1,7 @@
 # 💫 About Me:
 - 👋 Hi! I'm Luane.
 - 💻 Software Engineer at Grupo Globo.
-- 📚 Master's student in information science with a Bachelor's degree in Library Science (2020) and in Information Systems (ongoing).
+- 📚 Master's student in Information Science with a Bachelor's degree in Library Science (2020) and in Information Systems (ongoing).
 - 🌱 I'm stepping up my learning in Python and JavaScript, taking my skills to the next level.
 - ✉️ You can e-mail me at: luane.sporto@gmail.com or connect on my social networks.
 
